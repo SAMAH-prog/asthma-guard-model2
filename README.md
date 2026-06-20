@@ -4,7 +4,7 @@
 
 ## 📝 Description du Projet
 
-**AsthmaGuard** est un modèle d'intelligence artificielle conçu pour prédire le risque de crise d'asthme à court terme (dans les prochaines 24 heures). Basé sur un ensemble de données synthétiques, il utilise un algorithme de **Random Forest** pour analyser des indicateurs physiologiques, environnementaux et comportementaux.
+**Modèle de Prédiction de Crises d'Asthme (Court Terme)** est un modèle d'intelligence artificielle conçu pour prédire le risque de crise d'asthme à court terme (dans les prochaines 24 heures). Basé sur un ensemble de données synthétiques, il utilise un algorithme de **Random Forest** pour analyser des indicateurs physiologiques, environnementaux et comportementaux.
 
 Ce projet vise à démontrer la faisabilité d'un système d'alerte précoce pour les patients asthmatiques, permettant une intervention proactive et une meilleure gestion de la maladie.
 
