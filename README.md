@@ -1,6 +1,6 @@
 # AsthmaGuard 🫁⌚
 
-[cite_start]**AsthmaGuard** est un système prédictif et personnalisé des crises d'asthme chez l'adulte (18-60 ans) s'appuyant sur l'intelligence artificielle, les données physiologiques issues de montres connectées et des API environnementales[cite: 1, 20, 21, 22]. [cite_start]Ce projet propose de passer d'une gestion réactive traditionnelle de l'asthme à une approche proactive et préventive[cite: 18].
+**AsthmaGuard** est un système prédictif et personnalisé des crises d'asthme chez l'adulte (18-60 ans) s'appuyant sur l'intelligence artificielle, les données physiologiques issues de montres connectées et des API environnementales[cite: 1, 20, 21, 22]. [cite_start]Ce projet propose de passer d'une gestion réactive traditionnelle de l'asthme à une approche proactive et préventive[cite: 18].
 
 ## 📌 Table des matières
 - [Architecture Générale du Système](#-architecture-générale-du-système)
